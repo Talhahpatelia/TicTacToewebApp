@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tictactoeweb-a944f"
+  },
+  "targets": {
+    "tictactoeweb-a944f": {
+      "hosting": {
+        "TicTacToeApp": [
+          "tictactoeweb-a944f"
+        ]
+      }
+    }
+  }
+}
